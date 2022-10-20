@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="accesodatos.ImplementacionMYSQL"/>
+    <fullyQualifiedTypeName name="accesodatos.ImplementacionORACLE"/>
+    <fullyQualifiedTypeName name="accesodatos.IAccesoDatos"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="domain.Persona"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="excepciones.OperacionExcepciones"/>
+    <fullyQualifiedTypeName name="aritmetica.Aritmetica"/>
+    <fullyQualifiedTypeName name="excepciones.OperacionExcepcion"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="jdk.jshell.Diag"/>
+    <fullyQualifiedTypeName name="test.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="test.Map_HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="T"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.serializer.ElemDesc"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="genericos.ClaseGenerica"/>
+</qualifiedTypeNameHistroy>
